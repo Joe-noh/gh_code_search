@@ -1,0 +1,15 @@
+{
+    "name": "GH Code Search",
+    "description": "This helps to search codes written in specific language",
+
+    "author": "Joe Honzawa",
+    "version": "0.0.1",
+    "manifest_version": 2,
+
+    "browser_action": {
+        "default_title": "GH Code Search",
+        "default_popup": "popup.html"
+    },
+
+    "permissions": ["tabs"]
+}
